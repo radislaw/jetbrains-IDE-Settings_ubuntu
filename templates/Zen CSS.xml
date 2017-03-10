@@ -1,0 +1,7 @@
+<templateSet group="Zen CSS">
+  <template name="@mx" value=" @media screen and (max-width: $END$px) {&#10; &#10; }" description="@media max-width" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

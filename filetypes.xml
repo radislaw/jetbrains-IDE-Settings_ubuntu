@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="es" approved="true" type="ActionScript" />
+      <mapping ext="es" type="JavaScript" />
+    </extensionMap>
+  </component>
+</application>

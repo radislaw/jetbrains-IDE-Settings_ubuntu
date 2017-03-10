@@ -1,0 +1,7 @@
+<templateSet group="Angular2">
+  <template name="@mx" value="@media all and(max-width: $END){&#10;&#10;}" description="@media max" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_RULESET_LIST" value="true" />
+    </context>
+  </template>
+</templateSet>
