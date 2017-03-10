@@ -52,5 +52,5 @@ These repositories are referred to as **Read-only sources**, as they cannot be o
 To configure such repositories, do the following:
 
 In the Settings/Preferences dialog, expand the **Tools** node and choose Settings Repository.
-Click + /help/img/idea/2016.3/add_icon.png and add the URL of the GitHub repository that contains the settings you want to share.
+Click **+** and add the URL of the GitHub repository that contains the settings you want to share.
 Synchronization with the settings from **read-only sources** is performed in the same way as for the Settings Repository.
