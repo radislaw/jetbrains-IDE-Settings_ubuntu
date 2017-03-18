@@ -1,8 +1,21 @@
 <templateSet group="Vue.js">
-  <template name="V" value="&lt;template lang=&quot;pug&quot;&gt;&#10;  #$ID$&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;  export default {&#10;    name: '$ID$',&#10;    data() {&#10;      return {&#10;      &#10;      }&#10;    },&#10;    methods: {&#10;    &#10;    },&#10;    computed: {&#10;    &#10;    },&#10;  };&#10;&lt;/script&gt;&#10;&#10;&lt;style lang=&quot;scss&quot; scoped&gt;&#10;&#10;&lt;/style&gt;" description=".vue template" toReformat="false" toShortenFQNames="true">
+  <template name="V" value="&lt;template lang=&quot;pug&quot;&gt;&#10;  #$ID$&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;  export default {&#10;    name: '$ID$',&#10;    data() {&#10;      return {&#10;      &#10;      }&#10;    },&#10;    methods: {&#10;    &#10;    },&#10;    computed: {&#10;    &#10;    },&#10;  };&#10;&lt;/script&gt;&#10;&#10;&lt;style lang=&quot;scss&quot; scoped&gt;&#10;&#10;&lt;/style&gt;" description="Quickly generate vue component templates" toReformat="false" toShortenFQNames="true">
     <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="VX" value="import Vue from 'vue';&#10;import Vuex from 'vuex';&#10;Vue.use(Vuex);&#10;export default new Vuex.Store({&#10;    strict: process.env.NODE_ENV !== 'production',&#10;    $END$&#10;})" description="Vuex master file template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="VR" value="import Vue from 'vue';&#10;import Router from 'vue-router';&#10;Vue.use(Router);&#10;export default new Router({&#10;    mode: '$mode$',&#10;    base: $dirname$,&#10;    routes: $route$,&#10;})" description="VueRouter master file template" toReformat="false" toShortenFQNames="true">
+    <variable name="mode" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="dirname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
