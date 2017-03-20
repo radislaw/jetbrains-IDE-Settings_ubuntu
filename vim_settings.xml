@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/PhpstormProjects/veggy_shop/app/styles/components/_header_navbar.scss" timestamp="1489978795563">
-        <mark key="[" line="105" column="6" />
+      <file name="$USER_HOME$/Dropbox/PhpstormProjects/veggy_shop/app/styles/components/_header_navbar.scss" timestamp="1489989571513">
+        <mark key="[" line="52" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/PhpstormProjects/veggy_shop/app/styles/main.scss" timestamp="1489977873694" />
-      <file name="$USER_HOME$/Dropbox/PhpstormProjects/veggy_shop/app/styles/components/_single_news.scss" timestamp="1489978867959">
+      <file name="$USER_HOME$/Dropbox/PhpstormProjects/veggy_shop/app/styles/components/_single_news.scss" timestamp="1489989282312">
         <mark key="[" line="186" column="0" />
       </file>
     </filemarks>
