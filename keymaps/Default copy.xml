@@ -2,6 +2,9 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
