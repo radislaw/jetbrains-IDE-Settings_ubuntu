@@ -2,9 +2,6 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt comma" />
-  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
