@@ -2,6 +2,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:PREVIEW" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
