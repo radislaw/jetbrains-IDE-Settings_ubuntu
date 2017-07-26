@@ -14,6 +14,12 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -26,6 +32,17 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
@@ -56,6 +73,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="ToggleBookmark" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl meta alt d" />
   </action>
