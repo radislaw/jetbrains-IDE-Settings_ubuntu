@@ -58,6 +58,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
