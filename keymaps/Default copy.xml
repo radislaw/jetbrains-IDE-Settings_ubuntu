@@ -32,6 +32,9 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
