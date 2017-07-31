@@ -93,10 +93,15 @@
   </action>
   <action id="RemoteHostView.Rename" />
   <action id="RenameElement" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="Run" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
