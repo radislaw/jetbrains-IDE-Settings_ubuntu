@@ -1,6 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="wallpaper" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60,60,60" />
-    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60,60,60" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="isBoldTabs" value="true" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="upperCaseTabs" value="true" />
   </component>
 </application>
