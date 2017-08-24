@@ -1,9 +1,10 @@
 <scheme name="_@user_Material Theme - Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2016-12-28T13:09:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2016-12-28T13:16:41</property>
+    <property name="modified">2017-08-24T17:41:01</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -16,8 +17,9 @@
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -184,7 +186,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="ff0027" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
