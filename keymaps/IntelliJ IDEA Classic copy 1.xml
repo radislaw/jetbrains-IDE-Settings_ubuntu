@@ -1,4 +1,7 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy 1" parent="$default">
+  <action id="EditorToggleShowBreadcrumbs">
+    <keyboard-shortcut first-keystroke="shift ctrl alt home" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
