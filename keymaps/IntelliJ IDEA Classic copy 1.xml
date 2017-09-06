@@ -11,6 +11,9 @@
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
