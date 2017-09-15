@@ -73,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Last Tool Window">
+        <Item>
+          <IdeaActionID>JumpToLastWindow</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Jump to Last Tool Window</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Messages">
         <Item>
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>

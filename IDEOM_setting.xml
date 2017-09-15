@@ -1,0 +1,44 @@
+<application>
+  <component name="IDEOM">
+    <option name="editorSetting">
+      <map>
+        <entry key="Default">
+          <value>
+            <EditorSetting>
+              <option name="editorName" value="Default" />
+              <option name="imagePath" value="$USER_HOME$/Изображения/34378176550_faa7d67b12_k.jpg" />
+              <option name="imageOpacity" value="0.37" />
+              <option name="imageVerticalPositionNo" value="1" />
+            </EditorSetting>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="soundSetting">
+      <map>
+        <entry key="Project Close">
+          <value>
+            <SoundSetting />
+          </value>
+        </entry>
+        <entry key="Project Open">
+          <value>
+            <SoundSetting />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <SoundSetting>
+              <option name="eventName" value="Run" />
+            </SoundSetting>
+          </value>
+        </entry>
+        <entry key="Run Error">
+          <value>
+            <SoundSetting />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
