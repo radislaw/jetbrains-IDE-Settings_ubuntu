@@ -14,7 +14,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -150,7 +150,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'default'</Description>
-          <Count>102</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
