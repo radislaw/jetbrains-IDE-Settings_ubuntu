@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Status Bar">
+        <Item>
+          <IdeaActionID>ViewStatusBar</IdeaActionID>
+          <ShortCut>'Alt+S'</ShortCut>
+          <Description>Status Bar</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
