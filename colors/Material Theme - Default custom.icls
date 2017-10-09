@@ -4,7 +4,7 @@
     <property name="created">2016-12-28T19:45:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-10-09T11:05:20</property>
+    <property name="modified">2017-10-09T11:08:04</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -27,7 +27,7 @@
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="222f35" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
-    <option name="DELETED_LINES_COLOR" value="f77669" />
+    <option name="DELETED_LINES_COLOR" value="e74c3c" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="FILESTATUS_ADDED" value="80cbc4" />
@@ -53,7 +53,7 @@
     <option name="INDENT_GUIDE" value="1abc9c" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="METHOD_SEPARATORS_COLOR" value="475f63" />
-    <option name="MODIFIED_LINES_COLOR" value="99b89d" />
+    <option name="MODIFIED_LINES_COLOR" value="1abc9c" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -65,7 +65,7 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
     <option name="WHITESPACES" value="2e3c43" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="99b89d" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="475f63" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
