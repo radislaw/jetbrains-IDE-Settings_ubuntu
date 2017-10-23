@@ -78,7 +78,7 @@
           <IdeaActionID>ToggleFullScreen</IdeaActionID>
           <ShortCut>'Alt+Semicolon'</ShortCut>
           <Description>Enter Full Screen</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
