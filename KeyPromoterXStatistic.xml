@@ -137,6 +137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Leave a Comment">
+        <Item>
+          <IdeaActionID>Upsource.CreateOrShowDiscussionInDiff</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Slash'</ShortCut>
+          <Description>Leave a Comment</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Maximize Tool Window">
         <Item>
           <IdeaActionID>MaximizeToolWindow</IdeaActionID>
