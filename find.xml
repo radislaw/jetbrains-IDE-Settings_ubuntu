@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,13 +14,13 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.css</mask>
-      <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
