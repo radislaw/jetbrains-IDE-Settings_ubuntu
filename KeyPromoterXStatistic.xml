@@ -33,6 +33,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Table to...">
+        <Item>
+          <IdeaActionID>DatabaseView.CopyTable</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Copy Table to...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Cut">
         <Item>
           <IdeaActionID>$Cut</IdeaActionID>
@@ -54,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>255</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
