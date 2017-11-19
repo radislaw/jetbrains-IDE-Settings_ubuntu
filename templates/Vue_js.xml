@@ -1,6 +1,5 @@
 <templateSet group="Vue.js">
-  <template name="V" value="&lt;template lang=&quot;pug&quot;&gt;&#10;  #$ID$&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;  export default {&#10;    name: '$ID$',&#10;    data() {&#10;      return {&#10;      &#10;      }&#10;    },&#10;    methods: {&#10;    &#10;    },&#10;    computed: {&#10;    &#10;    },&#10;  };&#10;&lt;/script&gt;&#10;&#10;&lt;style lang=&quot;scss&quot; scoped&gt;&#10;&#10;&lt;/style&gt;" description="Quickly generate vue component templates" toReformat="false" toShortenFQNames="true">
-    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="V" value="&lt;template&gt;&#10;  &lt;div&gt;&#10;  $END$&#10;  &lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;  export default {&#10;    name: '',&#10;    data() {&#10;      return {&#10;      &#10;      }&#10;    },&#10;    methods: {&#10;    &#10;    },&#10;    computed: {&#10;    &#10;    },&#10;  };&#10;&lt;/script&gt;&#10;" description="Quickly generate vue component templates" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>

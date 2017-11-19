@@ -1,11 +1,21 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="SearchEverywhere" is_action="true" action_type="-1" position="6">
+    <group value="VersionControlsGroup" is_group="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="NavBarToolBarOthers" is_group="true" action_type="-1" position="4">
+    <group value="NavBarToolBarOthers" is_group="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Stop" is_action="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
