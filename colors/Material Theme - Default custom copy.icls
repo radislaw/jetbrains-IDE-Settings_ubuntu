@@ -4,7 +4,7 @@
     <property name="created">2016-12-28T19:45:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-10-25T19:01:49</property>
+    <property name="modified">2017-11-21T14:24:01</property>
     <property name="originalScheme">Material Theme - Default custom</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -716,7 +716,7 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="505c63" />
+        <option name="FOREGROUND" value="ecf0f1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -839,6 +839,17 @@
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
+      </value>
+    </option>
+    <option name="JS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ecf0f1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION">
