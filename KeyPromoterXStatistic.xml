@@ -174,7 +174,7 @@
           <IdeaActionID>Upsource.CreateOrShowDiscussionInDiff</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Slash'</ShortCut>
           <Description>Leave a Comment</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -334,7 +334,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>21</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
     </option>
