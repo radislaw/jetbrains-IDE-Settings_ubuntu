@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>265</Count>
+          <Count>268</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -318,7 +318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>77</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
