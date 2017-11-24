@@ -169,6 +169,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to External Editor">
+        <Item>
+          <IdeaActionID>Images.EditExternally</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F4'</ShortCut>
+          <Description>Jump to External Editor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Last Tool Window">
         <Item>
           <IdeaActionID>JumpToLastWindow</IdeaActionID>
