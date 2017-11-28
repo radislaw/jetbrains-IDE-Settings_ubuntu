@@ -65,6 +65,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cyclic Expand Word">
+        <Item>
+          <IdeaActionID>HippieCompletion</IdeaActionID>
+          <ShortCut>'Alt+Slash'</ShortCut>
+          <Description>Cyclic Expand Word</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="DDL">
         <Item>
           <IdeaActionID>Jdbc.OpenEditor.Grid.DDL</IdeaActionID>
