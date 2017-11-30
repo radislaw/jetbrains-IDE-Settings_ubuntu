@@ -12,7 +12,6 @@
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.css</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*</mask>
       <mask>*.</mask>
@@ -20,6 +19,7 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
