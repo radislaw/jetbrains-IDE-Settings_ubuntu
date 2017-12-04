@@ -206,7 +206,7 @@
           <IdeaActionID>Upsource.CreateOrShowDiscussionInDiff</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Slash'</ShortCut>
           <Description>Leave a Comment</Description>
-          <Count>13</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -270,6 +270,14 @@
           <IdeaActionID>RecentFiles</IdeaActionID>
           <ShortCut>'Ctrl+E'</ShortCut>
           <Description>Recent Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Refresh</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
