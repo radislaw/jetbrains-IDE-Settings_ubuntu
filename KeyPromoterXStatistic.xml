@@ -326,7 +326,7 @@
           <IdeaActionID>ChangesView.Diff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Status Bar">
@@ -390,7 +390,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
     </option>
