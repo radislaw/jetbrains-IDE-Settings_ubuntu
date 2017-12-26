@@ -310,7 +310,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'default'</Description>
-          <Count>123</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -326,7 +326,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -390,7 +390,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>132</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
