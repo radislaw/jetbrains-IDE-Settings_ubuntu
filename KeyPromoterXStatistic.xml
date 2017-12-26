@@ -174,7 +174,7 @@
           <IdeaActionID>Upsource.GoToReview</IdeaActionID>
           <ShortCut>'Ctrl+G'</ShortCut>
           <Description>Go to Review</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Home Directory">
@@ -414,7 +414,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>45</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
     </option>
