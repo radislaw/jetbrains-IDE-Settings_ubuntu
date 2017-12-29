@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>172</Count>
+          <Count>173</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -270,7 +270,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
