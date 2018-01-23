@@ -198,7 +198,7 @@
           <IdeaActionID>Upsource.GoToReview</IdeaActionID>
           <ShortCut>'Ctrl+G'</ShortCut>
           <Description>Go to Review</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Home Directory">
@@ -303,6 +303,14 @@
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Pull...">
+        <Item>
+          <IdeaActionID>Git.Pull</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+O'</ShortCut>
+          <Description>Pull...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recent Files">
@@ -446,7 +454,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>149</Count>
+          <Count>153</Count>
         </Item>
       </Statistic>
     </option>
