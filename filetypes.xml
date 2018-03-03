@@ -3,8 +3,6 @@
     <extensionMap>
       <removed_mapping ext="es" type="ActionScript" />
       <mapping ext="es" type="JavaScript" />
-      <mapping ext="php" type="PHP" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
