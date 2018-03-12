@@ -3,4 +3,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
 </keymap>
