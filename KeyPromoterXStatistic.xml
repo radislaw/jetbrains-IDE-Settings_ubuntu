@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>308</Count>
+          <Count>309</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -470,7 +470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>197</Count>
+          <Count>198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
