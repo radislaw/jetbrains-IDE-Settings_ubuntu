@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>329</Count>
+          <Count>330</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>617</Count>
+          <Count>618</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -302,7 +302,7 @@
           <IdeaActionID>NewScratchFile</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
           <Description>New Scratch File</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -318,7 +318,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
