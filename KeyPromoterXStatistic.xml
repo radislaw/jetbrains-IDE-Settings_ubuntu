@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>623</Count>
+          <Count>624</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -215,6 +215,14 @@
           <ShortCut>'Ctrl+G'</ShortCut>
           <Description>Go to Review</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go to next highlighted element usage">
+        <Item>
+          <IdeaActionID>GotoNextElementUnderCaretUsage</IdeaActionID>
+          <ShortCut>'Alt+Wheel down'</ShortCut>
+          <Description>Go to next highlighted element usage</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Home Directory">
@@ -366,7 +374,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'default'</Description>
-          <Count>967</Count>
+          <Count>983</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dev'">
