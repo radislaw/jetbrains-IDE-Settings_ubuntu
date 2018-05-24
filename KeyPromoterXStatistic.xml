@@ -169,6 +169,14 @@
           <Count>26</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Exit Distraction Free Mode">
+        <Item>
+          <IdeaActionID>ToggleDistractionFreeMode</IdeaActionID>
+          <ShortCut>'Alt+D'</ShortCut>
+          <Description>Exit Distraction Free Mode</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Expand">
         <Item>
           <IdeaActionID>ExpandRegion</IdeaActionID>
