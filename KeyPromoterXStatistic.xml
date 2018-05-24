@@ -126,7 +126,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -150,7 +150,7 @@
           <IdeaActionID>ToggleDistractionFreeMode</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Enter Distraction Free Mode</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Enter Full Screen">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pull...">
@@ -438,7 +438,7 @@
           <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
           <ShortCut>'Ctrl+Alt+N'</ShortCut>
           <Description>Set NULL</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
@@ -510,7 +510,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>347</Count>
+          <Count>348</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
