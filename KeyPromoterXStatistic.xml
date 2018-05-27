@@ -230,7 +230,7 @@
           <IdeaActionID>Upsource.GoToReview</IdeaActionID>
           <ShortCut>'Ctrl+G'</ShortCut>
           <Description>Go to Review</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go to next highlighted element usage">
@@ -542,7 +542,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>177</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
     </option>
