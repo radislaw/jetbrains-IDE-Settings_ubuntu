@@ -294,7 +294,7 @@
           <IdeaActionID>Upsource.CreateOrShowDiscussionInDiff</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Slash'</ShortCut>
           <Description>Leave a Comment</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
