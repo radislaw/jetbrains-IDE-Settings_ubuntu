@@ -406,7 +406,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'default'</Description>
-          <Count>1619</Count>
+          <Count>1625</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dev'">
@@ -534,7 +534,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>225</Count>
+          <Count>227</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
