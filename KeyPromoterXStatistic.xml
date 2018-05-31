@@ -414,7 +414,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'default'</Description>
-          <Count>1628</Count>
+          <Count>1630</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dev'">
@@ -446,7 +446,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>115</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -511,6 +511,14 @@
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Submit</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
