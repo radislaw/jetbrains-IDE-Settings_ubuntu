@@ -422,7 +422,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'default'</Description>
-          <Count>1665</Count>
+          <Count>1666</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dev'">
