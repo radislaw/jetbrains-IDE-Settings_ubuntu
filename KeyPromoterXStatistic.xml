@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>54</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>362</Count>
+          <Count>389</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -70,7 +70,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>23</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Table to...">
@@ -105,12 +105,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Data Source Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Data Source Properties</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>679</Count>
+          <Count>725</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -118,7 +126,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>10</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -137,12 +145,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Drop">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Drop</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit">
+        <Item>
+          <IdeaActionID>Console.TableResult.EditValue</IdeaActionID>
+          <ShortCut>'F2' or 'Enter' or 'Alt+Enter'</ShortCut>
+          <Description>Edit</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Enter Distraction Free Mode">
         <Item>
           <IdeaActionID>ToggleDistractionFreeMode</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Enter Distraction Free Mode</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Enter Full Screen">
@@ -159,6 +183,14 @@
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
           <Count>26</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exit Distraction Free Mode">
+        <Item>
+          <IdeaActionID>ToggleDistractionFreeMode</IdeaActionID>
+          <ShortCut>'Alt+D'</ShortCut>
+          <Description>Exit Distraction Free Mode</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -182,7 +214,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -214,7 +246,7 @@
           <IdeaActionID>Upsource.GoToReview</IdeaActionID>
           <ShortCut>'Ctrl+G'</ShortCut>
           <Description>Go to Review</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go to next highlighted element usage">
@@ -246,7 +278,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -278,7 +310,7 @@
           <IdeaActionID>Upsource.CreateOrShowDiscussionInDiff</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Slash'</ShortCut>
           <Description>Leave a Comment</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -302,7 +334,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Scratch File">
@@ -326,7 +358,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>54</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -335,6 +367,14 @@
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>34</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Properties</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pull...">
@@ -366,7 +406,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -382,7 +422,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'default'</Description>
-          <Count>1278</Count>
+          <Count>1666</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dev'">
@@ -390,7 +430,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'dev'</Description>
-          <Count>6</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'watch'">
@@ -398,7 +438,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'watch'</Description>
-          <Count>26</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -414,7 +454,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>112</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -430,7 +470,7 @@
           <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
           <ShortCut>'Ctrl+Alt+N'</ShortCut>
           <Description>Set NULL</Description>
-          <Count>3</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
@@ -446,7 +486,7 @@
           <IdeaActionID>ChangesView.Diff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -486,7 +526,15 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>16</Count>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Submit</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -494,7 +542,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>18</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -510,7 +558,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>369</Count>
+          <Count>386</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -518,7 +566,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>246</Count>
+          <Count>233</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -534,7 +582,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>180</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
     </option>

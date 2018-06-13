@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Edit values of object literal properties" />
+    <ignoreAction name="JavaScript/Introduce local variable" />
+    <ignoreAction name="PHP/Replace ternary expression with if clause" />
+  </component>
+</application>
