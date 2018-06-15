@@ -310,7 +310,7 @@
           <IdeaActionID>Upsource.CreateOrShowDiscussionInDiff</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Slash'</ShortCut>
           <Description>Leave a Comment</Description>
-          <Count>35</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -558,7 +558,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>388</Count>
+          <Count>389</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -582,7 +582,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>181</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
     </option>
