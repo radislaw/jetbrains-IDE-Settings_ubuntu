@@ -438,7 +438,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'watch'</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -454,7 +454,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>149</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
