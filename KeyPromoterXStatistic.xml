@@ -454,7 +454,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>164</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -583,6 +583,30 @@
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>193</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="enable">
+        <Item>
+          <IdeaActionID>ActivatePowerEnable</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+A'</ShortCut>
+          <Description>enable</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="particle">
+        <Item>
+          <IdeaActionID>ParticleSwitch</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+P'</ShortCut>
+          <Description>particle</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="shake">
+        <Item>
+          <IdeaActionID>ShakeSwitch</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
+          <Description>shake</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
