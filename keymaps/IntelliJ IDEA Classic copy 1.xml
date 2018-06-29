@@ -5,6 +5,9 @@
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
+  </action>
   <action id="EditorToggleShowBreadcrumbs">
     <keyboard-shortcut first-keystroke="shift ctrl alt home" />
   </action>
