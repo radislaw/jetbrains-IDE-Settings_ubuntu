@@ -193,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Exit Full Screen">
+        <Item>
+          <IdeaActionID>ToggleFullScreen</IdeaActionID>
+          <ShortCut>'Alt+;'</ShortCut>
+          <Description>Exit Full Screen</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Expand">
         <Item>
           <IdeaActionID>ExpandRegion</IdeaActionID>
