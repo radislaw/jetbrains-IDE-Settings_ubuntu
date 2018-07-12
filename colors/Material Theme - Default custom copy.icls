@@ -4,7 +4,7 @@
     <property name="created">2016-12-28T19:45:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2018-06-01T14:49:58</property>
+    <property name="modified">2018-07-12T17:09:11</property>
     <property name="originalScheme">Material Theme - Default custom</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -903,7 +903,7 @@
     </option>
     <option name="JS.REGEXP">
       <value>
-        <option name="FOREGROUND" value="6dc2b8" />
+        <option name="FOREGROUND" value="2968cb" />
       </value>
     </option>
     <option name="JS.SEMICOLON">
