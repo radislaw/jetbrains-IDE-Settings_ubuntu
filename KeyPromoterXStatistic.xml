@@ -462,7 +462,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'watch'</Description>
-          <Count>114</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -478,7 +478,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>202</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -582,7 +582,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>449</Count>
+          <Count>453</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
