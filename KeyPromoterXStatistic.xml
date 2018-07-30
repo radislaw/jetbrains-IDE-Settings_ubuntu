@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>891</Count>
+          <Count>894</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -470,7 +470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'watch'</Description>
-          <Count>149</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -486,7 +486,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>235</Count>
+          <Count>237</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -590,7 +590,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>497</Count>
+          <Count>498</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
