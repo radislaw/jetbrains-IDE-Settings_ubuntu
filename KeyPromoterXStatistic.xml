@@ -126,7 +126,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -470,7 +470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'watch'</Description>
-          <Count>169</Count>
+          <Count>171</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
