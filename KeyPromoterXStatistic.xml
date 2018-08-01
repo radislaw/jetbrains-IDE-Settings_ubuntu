@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>425</Count>
+          <Count>426</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>904</Count>
+          <Count>905</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -374,7 +374,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from X clipboard">
@@ -470,7 +470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'watch'</Description>
-          <Count>166</Count>
+          <Count>167</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -486,7 +486,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>241</Count>
+          <Count>242</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
