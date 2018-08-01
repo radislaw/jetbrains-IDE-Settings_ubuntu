@@ -505,6 +505,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show All Affected Files">
+        <Item>
+          <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
+          <ShortCut>'Alt+Shift+A'</ShortCut>
+          <Description>Show All Affected Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Diagram...">
         <Item>
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
