@@ -430,7 +430,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -478,7 +478,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'watch'</Description>
-          <Count>210</Count>
+          <Count>211</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -494,7 +494,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>257</Count>
+          <Count>258</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -606,7 +606,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>521</Count>
+          <Count>522</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
