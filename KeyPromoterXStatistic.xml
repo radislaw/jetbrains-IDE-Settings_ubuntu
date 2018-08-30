@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1041</Count>
+          <Count>1044</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -254,7 +254,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Generate...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go to Review">
